@@ -1,0 +1,30 @@
+_repo: Harvesting-Ants-and-Trap-Door-Spiders-Notes-and-Observations-on-Their-Habits-and-Dwellings_64654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moggridge, John Traherne
+    alias: Moggridge, J. Traherne
+    birthdate: 1842
+    deathdate: 1874
+    gutenberg_agent_id: '52998'
+    url: http://www.gutenberg.org/2009/agents/52998
+    wikipedia: https://en.wikipedia.org/wiki/John_Traherne_Moggridge
+description: ''
+gutenberg_issued: '2021-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64654'
+  lccn: 06014942
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Ants'
+- !lcsh 'Trap-door spiders'
+- GITenberg
+title: 'Harvesting Ants and Trap-Door Spiders
+
+  Notes and Observations on Their Habits and Dwellings'
+url: http://www.gutenberg.org/ebooks/64654
