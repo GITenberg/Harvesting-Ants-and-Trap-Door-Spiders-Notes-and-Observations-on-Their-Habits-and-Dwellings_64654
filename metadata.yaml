@@ -1,5 +1,8 @@
 _repo: Harvesting-Ants-and-Trap-Door-Spiders-Notes-and-Observations-on-Their-Habits-and-Dwellings_64654
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64654-h/images/epub_cover.jpg
 creator:
   author:
     agent_name: Moggridge, John Traherne
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52998
     wikipedia: https://en.wikipedia.org/wiki/John_Traherne_Moggridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64654#Harvesting-Ants-and-Trap-Door-Spiders-Notes-and-Observations-on-Their-Habits-and-Dwellings
 gutenberg_issued: '2021-02-28'
 gutenberg_type: Text
 identifiers:
